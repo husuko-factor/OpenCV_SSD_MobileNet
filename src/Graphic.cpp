@@ -9,6 +9,8 @@
 #include "Graphic.h"
 
 
+
+
 // Constructor.
 // Parameter: path to the image file, stored to the private attribute
 //            number of classes, used to generate colors for classes
